@@ -41,6 +41,6 @@
     "jest": "^22.1.4"
   },
   "peerDependencies": {
-    "webpack": "2.x || 3.x"
+    "webpack": "2.x || 3.x || 4.0"
   }
 }
